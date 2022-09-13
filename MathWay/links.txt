@@ -1,0 +1,12 @@
+Link principal:
+https://rafaeltoledonet.wordpress.com/tutoriais-allegro-5/ 
+
+
+sublinks já editado:
+http://www.rafaeltoledonet.wordpress.com/tutorial-allegro-5-criando-uma-janela/
+http://www.rafaeltoledonet.wordpress.com/tutorialallegro-5-2-colocando-uma-imagem-na-tela/
+http://www.rafaeltoledonet.wordpress.com/tutorial-allegro-5-3-eventos/
+http://www.rafaeltoledonet.wordpress.com/tutorial-allegro-5-4-escrevendo-texto-usando-fontes-true-type-ttf/
+http://www.rafaeltoledonet.wordpress.com/tutorial-allegro-5-6-utilizando-o-teclado/
+http://www.rafaeltoledonet.wordpress.com/tutorial-allegro-5-animacoes/
+http://www.rafaeltoledonet.wordpress.com/tutorial-allegro-5-animacoes/
